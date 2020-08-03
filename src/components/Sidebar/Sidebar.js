@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 // import boot from '../../../plugins/index'
 import logo from '../../assets/img/reactlogo.png'
 
-const Sidebar = ({ }) => {
+const Sidebar = () => {
 
     return (
         <>

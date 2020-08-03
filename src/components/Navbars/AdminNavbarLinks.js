@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import boot from '../../../plugins/index'
+// import boot from '../../../plugins/index'
 
 const Hero = ({ children }) => {
     const [show, toggleShow] = useState(true);
